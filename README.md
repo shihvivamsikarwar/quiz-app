@@ -4,16 +4,6 @@ A full-stack Quiz Application built using **Spring Boot** for the backend. Desig
 
 ---
 
-## 🧑‍💻 Team Members
-**Team Name:** CodeQuizzers  
-- Shivam Sikarwar(Lead Developer)  
-- Shivani Kushwah
-- Akash Gurjar
-- Abhisek Gurjar
-- Neetesh Dixit
-
----
-
 ## 🚀 Tech Stack
 - **Java**
 - **Spring Boot**
